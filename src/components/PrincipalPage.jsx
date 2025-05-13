@@ -93,7 +93,7 @@ function PrincipalPage() {
   };
 
   return (
-    <div className="ayuda">
+    <div className="Container">
       <div className="main-filter-container">
         <input
           className="main-filter-input"
